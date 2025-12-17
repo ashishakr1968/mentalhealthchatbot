@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+Miniforge3-MacOSX-arm64.sh
+
+# Model files (large)
+models/
+
+# Memory / runtime files
+memory.json
+memory_7day.json
+memory_store.json
+
+# Data cache
+data/
+
+# Logs
+*.log
+
